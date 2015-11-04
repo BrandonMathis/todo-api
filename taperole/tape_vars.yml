@@ -1,0 +1,9 @@
+app_name: todo
+
+# Rails App Configs
+be_app_repo: git@github.com:BrandonMathis/todo-api.git
+
+# HTML/JS App Configs
+# Uncomment if you want to deploy a JS/HTML App
+fe_app_repo: git@github.com:smashingboxes/todo_js.git
+fe_app_branch: master
